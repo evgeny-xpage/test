@@ -7,5 +7,5 @@ class test
     {
         echo 'new';
     }
-    public string $version = '1.0.0';
+    public string $version = '1.1.0';
 }
